@@ -1,20 +1,22 @@
 # Hunter College CS Certification Summer 2022
 
-## main working repo for Progamming in a High Level Language -- Summer 2021
+## main working repo Summer Classes
+
+## CSCI7090 - Programming in a high level language
+
 
 _Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session._
 
 ## Discussion
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
-  - real-time chat during live sessions ( __Use instead of zoomchat!__
- )
+  - real-time chat during live sessions ( __Use instead of zoomchat!__ )
   - asynchronous communication between sessions
-  - Last year's cohort may offer support here...
+ 
 
 ## Text and related resources
 - syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/programming.md
-- pre-Work: https://github.com/hunter-teacher-cert/pre-work
+- pre-Work: https://github.com/hunter-teacher-cert/pre-acceptance-prework
 - Java:
   - Think Java (Downy, Mayfield):
     - text: http://greenteapress.com/thinkjava6/html/index.html, https://books.trinket.io/thinkjava/
