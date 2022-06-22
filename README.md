@@ -4,10 +4,7 @@
 
 ## CSCI70900 - Programming in a high level language
 
-
-_Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session._
-
-## Discussion
+## Zoom and Class Discussion Links
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
   - real-time chat during live sessions ( __Use instead of zoomchat!__ )
