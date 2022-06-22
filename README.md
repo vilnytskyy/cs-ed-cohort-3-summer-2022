@@ -13,7 +13,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
   - real-time chat during live sessions ( __Use instead of zoomchat!__ )
   - asynchronous communication between sessions
  
-## Setting up your summer work repositoryd
+## Setting up your summer work repository
 
 You can follow this video to set up your summer work repository: https://www.youtube.com/watch?v=UsabLRAQWxw
 
