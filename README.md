@@ -11,7 +11,7 @@
   - asynchronous communication between sessions
   - Previous cohorts may offer support here...
 
-_Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"]() subdirectory and have it open during each session._
+_Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-staging/tree/main/daily) subdirectory and have it open during each session._
 
 ## Setting up your summer work repository
 
