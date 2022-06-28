@@ -9,7 +9,10 @@
 - slack: https://hunterteacher-vyz6159.slack.com/
   - real-time chat during live sessions ( __Use instead of zoomchat!__ )
   - asynchronous communication between sessions
- 
+  - Previous cohorts may offer support here...
+
+_Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"]() subdirectory and have it open during each session._
+
 ## Setting up your summer work repository
 
 You can follow this video to set up your summer work repository: https://www.youtube.com/watch?v=UsabLRAQWxw
@@ -57,3 +60,68 @@ Throughout the summer, you'll use repl.it to write programs. You should sync the
   - https://rubberduckdebugging.com/cyberduck/
 
 
+## Our work repos
+
+- [Seth Adams]()
+- [usman ahmed]()
+- [Joel Bianchi]()
+- [Latoya Boland]()
+- [Alise Braick]()
+- [Aasine Cassara]()
+- [Dave Ciolino-Volano]()
+- [Nicole Cojuangco]()
+- [Christopher De Silva]()
+- [Charles Dorman]()
+- [adam driggers]()
+- [Benjamin Eckley]()
+- [Benjamin Eckley]()
+- [Patricia Elfers-Wygand]()
+- [Harrison Fung]()
+- [stacy Goldstein]()
+- [Taylor Grant-Knight]()
+- [Ed Hawkins]()
+- [Shana Elizabeth Henry]()
+- [Kiana Herr]()
+- [Joshua Higgins]()
+- [Rachel Kaufman]()
+- [William LaMorie]()
+- [Erwin Lara]()
+- [Amanda Lee]()
+- [Amanda Lee]()
+- [Yeidy Levels]()
+- [Jiamin Lin]()
+- [Samuel David Lojacono]()
+- [Christine Marra]()
+- [Katherine (Kate) Maschmeyer]()
+- [Sarah McCoy]()
+- [Parmanand Mohanlall]()
+- [David Moste]()
+- [Saranii Muller]()
+- [Jessica Novillo Argudo]()
+- [Jihae Park]()
+- [Moo Joon Park]()
+- [Richard Parker]()
+- [Adam Prado]()
+- [Michael Randazzo]()
+- [Elizabeth Rechtin]()
+- [Alana Robinson]()
+- [Stephen Sabaugh]()
+- [Stephen Sabaugh]()
+- [Stephen Sabaugh]()
+- [Greg Sciame]()
+- [Yanique Sears]()
+- [SueAnn Seccafico]()
+- [Marisa Shuman]()
+- [Tina Stevens]()
+- [Jerusha Theobald]()
+- [Marieke Thomas]()
+- [Wayne Tobias]()
+- [Ashley Ufret]()
+- [Alicia Wade]()
+- [Tanya Wardally]()
+- [Tanya Wardally]()
+- [Théa Williams]()
+- [Jing Xue]()
+- [Maxwell Yearwood]()
+- [Yenmin Young]()
+- [Qianhui Vanessa Zou]()
