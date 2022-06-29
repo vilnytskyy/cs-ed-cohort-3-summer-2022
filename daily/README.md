@@ -35,7 +35,7 @@ Lecture: Java basics/overview
 Your work repo should take on this structure:
 
 ```
-cohort-3-summer-work_csci70900-tofr$ tree
+cohort-3-summer-work_csci70900-tofr/programming$ tree
 .
 ├── 0
 │   └── readme.md
