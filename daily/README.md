@@ -32,6 +32,53 @@ Lecture: Java basics/overview
   - Cite any resources (human or other) you find helpful, as in-line comments.
   - Will be stored in your new work repo.
 
+Your work repo should take on this structure:
+
+```
+cohort-3-summer-work_csci70900-tofr$ tree
+.
+├── 0
+│   └── readme.md
+├── 1
+│   └── readme.md
+├── 2
+│   └── readme.md
+├── 3
+│   └── readme.md
+├── 4
+│   └── readme.md
+├── 5
+│   └── readme.md
+├── 6
+│   └── readme.md
+├── 7
+│   └── readme.md
+├── 8
+│   └── readme.md
+├── pre
+│   ├── 0
+│   │   └── readme.md
+│   ├── 1
+│   │   └── readme.md
+│   ├── 2
+│   │   └── readme.md
+│   ├── 3
+│   │   └── readme.md
+│   ├── 4
+│   │   └── readme.md
+│   ├── 5
+│   │   └── readme.md
+│   ├── 6
+│   │   └── readme.md
+│   ├── 7
+│   │   └── readme.md
+│   ├── 8
+│   │   └── readme.md
+│   └── 9
+│       └── readme.md
+└── README.org
+```
+
 * * *
 
 ### Day 1 | Day 0b0001 | Day 0x01 : 6/30
