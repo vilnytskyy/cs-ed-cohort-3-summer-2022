@@ -109,7 +109,7 @@ Throughout the summer, you'll use repl.it to write programs. You should sync the
 - [SueAnn "Suzie" Seccafico](https://github.com/hunter-teacher-cert/cohort-3-summer-work-ssecc001)
 - [Marisa Shuman](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Mshuman8)
 - [Jerusha Theobald](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jmtheo8)
-- [Marieke Thomas](https://github.com/orgs/hunter-teacher-cert/repositories?q=saraniim&type=all&language=&sort=/)
+- [Marieke Thomas](https://github.com/hunter-teacher-cert/cohort-3-summer-work-marieke-thomas)
 - [Wayne Tobias](https://github.com/hunter-teacher-cert/cohort-3-summer-work-WayneTobias)
 - [Ashley Ufret](https://github.com/hunter-teacher-cert/cohort-3-summer-work-A-Ufret)
 - [Alicia Wade](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awade05)
