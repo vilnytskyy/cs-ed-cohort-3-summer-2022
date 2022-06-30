@@ -42,6 +42,8 @@ Throughout the summer, you'll use repl.it to write programs. You should sync the
     - text: http://greenteapress.com/thinkjava6/html/index.html, https://books.trinket.io/thinkjava/
     - interactive: https://books.trinket.io/thinkjava/
     - source: https://github.com/AllenDowney/ThinkJavaCode
+  - CS Awesome (this is a great book that wasn't available when we set things up - I recommend it for teaching APCS-A)"
+     - https://runestone.academy/ns/books/published//csawesome/index.html
   - CS - Sedgewick / Wayne: https://introcs.cs.princeton.edu/java/
   - Intro to CS using Java - Kjell: https://chortle.ccsu.edu/Java5/index.html#03
   - Intro to Java - Udacity CS046: https://horstmann.com/sjsu/cs046/
