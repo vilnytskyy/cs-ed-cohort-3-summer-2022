@@ -10,6 +10,7 @@
   - real-time chat during live sessions ( __Use instead of zoomchat!__ )
   - asynchronous communication between sessions
   - Previous cohorts may offer support here...
+  - The channels you care most about: `#summer-2020`, `#summer-2020-attendance`, `#java-fu`, `#slack-fu`, `#replit-fu`,
 
 _Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-staging/tree/main/daily) subdirectory and have it open during each session._
 
