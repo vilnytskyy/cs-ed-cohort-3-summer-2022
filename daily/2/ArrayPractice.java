@@ -163,7 +163,7 @@ public class ArrayPractice
      then the array is sorted.
 
      An array with values 5,6,10,15 is sorted
-     An array with values 5,6,10,13,15 is not
+     An array with values 5,6,10,18,15 is not
 
   */
   public static boolean isSorted( int[] data )
