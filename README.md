@@ -122,3 +122,4 @@ Throughout the summer, you'll use repl.it to write programs. You should sync the
 - [Maxwell Yearwood](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi)
 - [Yenmin Young](https://github.com/hunter-teacher-cert/cohort-3-summer-work-yenminyoung)
 - [Qianhui Vanessa Zou](https://github.com/hunter-teacher-cert/cohort-3-summer-work-qvzou)
+- [William Sakas](https://github.com/hunter-teacher-cert/cohort-3-summer-work-wsakas)
