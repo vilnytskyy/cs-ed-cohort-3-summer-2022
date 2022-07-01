@@ -4,9 +4,9 @@ Schedule for Day 3
 2. Lesson on 2D arrays 
 3. Lab - Array2DPractice, specification below
 4. Demos on start of Array2DPractice
-5. If time, introduction on Conway's Game of Life lab.
-
-Array2DPractice assignment:
+5. If time, introduction on Conway's Game of Life lab.  We will upload
+   a skeleton for Conway's Game of life before we cover the topic.
+   Array2DPractice assignment:
 
 Take the starter code from this directory (the file named
 ArrayPractice.java) and copy it to your repl.it repl. Place it in the
