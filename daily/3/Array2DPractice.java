@@ -21,15 +21,20 @@ import java.util.*;
    methods (split into 3 levels):
 
    Basic level (complete all):
-   - printBoard
-   - copyBoard
+   - printBoard *
+   - copyBoard *
 
    Intermediate level (complete Basic methods plus this method):
-   - explodeSquare
+   - explodeSquare * 
 
    Advanved level (complete Basic + Intermediate + these two methods):
-   - explodeAllChar
+   - explodeAllChar * 
    - downString 
+
+
+   The routines with the * will be particularly helpful for the
+   Conway's Game of Life project that you'll work on after this one.
+   
    
 */
 
