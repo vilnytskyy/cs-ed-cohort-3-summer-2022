@@ -41,9 +41,9 @@ new team formation...
 
 Lab work time in small groups.
 
-Team demos: 1D arrays
-
 #### Lecture: Arrays, continued...
+
+Team demos: 1D arrays
 
 Lab work time in small groups.
 
