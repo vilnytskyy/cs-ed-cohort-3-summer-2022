@@ -1,5 +1,8 @@
-import java.util.*;
-import java.io.*;
+/**
+ * Game of Nim by Team BossCoders
+ * First Last
+ * collaborators: First Last, First Last
+ */
 
 /**
    INSTRUCTIONS:
@@ -36,6 +39,9 @@ import java.io.*;
    Advanced:
    Complete all the methods
 */
+
+import java.util.*;
+import java.io.*;
 
 public class ArrayPractice
 {
