@@ -103,6 +103,8 @@ public class ArrayPractice
      prints out the array
 
      Note: data.length stores the length of the array
+
+     Another Note: yes, we know William live coded this a few minutes ago.
   */
   public static void printArray( int[] data )
   {
