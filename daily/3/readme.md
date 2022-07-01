@@ -1,3 +1,11 @@
+Schedule for Day 3
+
+1. Demos and review of ArrayPractice lab
+2. Lesson on 2D arrays 
+3. Lab - Array2DPractice, specification below
+4. Demos on start of Array2DPractice
+5. If time, introduction on Conway's Game of Life lab.
+
 Array2DPractice assignment:
 
 Take the starter code from this directory (the file named
