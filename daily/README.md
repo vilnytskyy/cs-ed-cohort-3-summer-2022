@@ -58,3 +58,13 @@ http://pythontutor.com/java.html#code=public%20class%20ClassNameHere%20%7B%20%0A
 
 Lab work time in small groups.
 
+* * *
+
+### Day 3 | Day 0b0011 | Day 0x03 : 7/6
+
+* * *
+
+### Day 4 | Day 0b0100 | Day 0x04 : 7/7
+
+* * *
+
