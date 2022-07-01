@@ -16,7 +16,6 @@ Toolset
 - CLI, javac, java
 
 Lecture: Java basics/overview 
-- tk
 
 #### Work: Review pre-work
 - __Note any observed best practices.__
