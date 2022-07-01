@@ -1,5 +1,5 @@
 /**
- * Game of Nim by Team BossCoders
+ * ArrayPractice by Team BossCoders
  * First Last
  * collaborators: First Last, First Last
  */
