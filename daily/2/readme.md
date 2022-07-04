@@ -20,6 +20,8 @@ Use the provided skeleton to put your array knowledge into practice. (Copy the s
 - PROTIPs:
   - Never stray far from _runnable code_.
   - Comments galore!!!
+  - Anytime you are working from a skeleton, keep a copy of the original in a subdir like `skel`. This way you will always have the skeleton on hand for reference if you need it...
+
   
 - DELIVERABLE:
   - Save in your_work_repo: `programming/2/ArrayPractice.java`
