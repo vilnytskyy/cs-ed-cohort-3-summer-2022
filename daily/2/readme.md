@@ -1,19 +1,41 @@
+#### Work: 1D Array Lab
+_GOAL:_
 
-ArrayPractice assignment:
+Gain working familiarity with one-dimensional arrays in Java, or augment prior knowledge.
+- Grow cohort KB ("knowledge base") on slack:
+- Have a Q? Ask.
+- Confident in your skills/knowledge? _See how well you can explain it._
 
-Take the starter code from this directory (the file named
-ArrayPractice.java) and copy it to your repl.it repl. Place it in the
-folder /programming/2 (you will have to make the 2 folder if you
-haven't done so already).
+_YOUR CODING MISSION:_
 
-Additional instrtuctions can be found in the ArrayPractice.java file.
+Use the provided skeleton to put your array knowledge into practice. (Copy the starter code from this directory and into your repl.it (you will have to make the 2 folder if you haven't done so already). Additional instrtuctions can be found in the skeleton file.
+
+- SUGGESTED WORKFLOW:
+  - Designate "slacker" to interact with slack. (esp. #java-fu and #replit-fu for now...)
+  - Designate "driver" to screenshare and type. Multiplayer mode also fine.
+  - All parties dialogue as you compose code. (Feel free to use repl.it's multi-player feature (the invite button) but if you do make sure everyone you work with copies all the code to their own repo.)
+  - Think about who you will designate as presenter, should you demo to entire cohort.
+  - Sync your solution to GitHub when finished.
+
+- PROTIPs:
+  - Never stray far from _runnable code_.
+  - Comments galore!!!
+  
+- DELIVERABLE:
+  - Save in your_work_repo: `programming/2/ArrayPractice.java`
+  - List all collaborators and consultants in your source code file. 
+  - Include heading at top of file, as comment. _E.g.,_
+      ```java
+      /**
+       * 1D Array Practice by Team CodersRUs
+       * First Last
+       * collaborators: First Last, First Last
+       */
+      ```
+  - Add a comment above each function to tell us who you worked with, or if you got assistance, who from.
 
 
-Notes:
-- Work with your breakout room - help each other.
-- Make sure to sync your solution to GitHub when finished.
-- Feel free to use repl.it's multi-player feature (the invite button) but if you do make sure everyone you work with copies all the code to their own repo.
-- In your ArrayPractice.java file make sure to credit your partners. Specifically, add a comment above any function to tell us who you worked with, or if you got assistance, who from.
+
 
 Teams:
 ```
