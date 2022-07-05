@@ -70,12 +70,12 @@ _YOUR CODING MISSION:_
 1. Read the entire skeleton file, as a team, for understanding. 
 2. Discuss, as a team, how you will approach this. Pick the approach that makes the most sense to all teammates, and implement it.
 
-- PROTIPS:
+- PROTIPS and NOTES:
   - Design first. Sketch out your plan on paper ("keys to success"), transcribe into comments in your code file.
   - Get something, however, minimal, to compile and run ASAP. Incrementally grow it until it aligns with your goal.
   - Never stray far from runnable code. 
+
 - Need to tune your mental model? Play here: https://playgameoflife.com/
-- That one not fancy enough for you? Play here: https://gameoflife.pro/
 - Want more background? Read up here: https://en.wikipedia.org/wiki/The_Game_of_Life
 - ...or here: https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html
 - Grow cohort KB ("knowledge base") on slack:
