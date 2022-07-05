@@ -121,7 +121,7 @@ public class Array2DPractice
      Returns:
      nothing
 
-     A location in a 2D array can be though of as having 6
+     A location in a 2D array can be though of as having 8
      neighbors.  In the below 2D array, the neighbors of the element
      marked Q are the numbered elements.
 
