@@ -45,7 +45,6 @@ import java.util.*;
    xxxx
    xxxx
    xxxx
-   xxxx
 
    Use this completed method as an example to help you with some of the
    other methods.
