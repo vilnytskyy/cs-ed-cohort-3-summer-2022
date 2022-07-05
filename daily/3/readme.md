@@ -55,6 +55,6 @@ Teams:
 11	usman a	Michael R	Harrison F	Mike P
 12	Yenmin Y	Joshua H	Joel B	Vanessa Z
 13	Elizabeth R	William L	Marisa S	Richard P
-14	Yeidy L	Parmanand M	Rachel K	#N/A
-15	Ashley U	Steve S	Théa W	#N/A
+14	Yeidy L	Parmanand M	Rachel K	
+15	Ashley U	Steve S	Théa W	
 ```
