@@ -39,3 +39,22 @@ Fill in the missing body of each method and use the main() method to test. You a
   - Save in your work repo: `programming/3/Array2DPractice.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
+
+Teams:
+```
+1	Aasine C	Amanda L	Sam L	Alana R
+2	Dave C	adam d	stacy G	Alise B
+3	Jing X	Christopher D	Taylor G	Alicia W
+4	Marieke T	Charles D	Greg S	Benjamin E
+5	Maxwell Y	Ed H	Tanya W	Latoya B
+6	Seth A	Erwin L	Wayne T	Christine M
+7	Nicole C	Kiana H	Yanique S	Jenna L
+8	Patti E	Jessica N	Saranii M	Jerusha T
+9	Sarah M	Jihae P	Adam P	Kirk M
+10	Suzie S	Kate M	David M	Shana Elizabeth H
+11	usman a	Michael R	Harrison F	Mike P
+12	Yenmin Y	Joshua H	Joel B	Vanessa Z
+13	Elizabeth R	William L	Marisa S	Richard P
+14	Yeidy L	Parmanand M	Rachel K	#N/A
+15	Ashley U	Steve S	Théa W	#N/A
+```
