@@ -26,7 +26,7 @@ import java.util.*;
 public class Cgol
 {
 
-  //initialize empty board (all cells dead)
+  //create, initialize, and return  empty board (all cells dead)
   public static char[][] createNewBoard( int rows, int cols )
   {
 
@@ -65,7 +65,7 @@ public class Cgol
   }
 
 
-  //generate new board representing next generation
+  //generate and return a new board representing next generation
   public static char[][] generateNextBoard( char[][] board )
   {
 
