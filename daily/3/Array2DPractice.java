@@ -163,6 +163,19 @@ public class Array2DPractice
      Example:
 
      Given the array
+
+     qqzqq
+     qqqqq
+     qqqqq
+     qqqqq
+     qzqqq
+     qqqqq
+     qqqqz
+
+     ...
+     explodeAllchar(board,'z')
+     will change board to
+
      qXzXq
      qXXXq
      qqqqq
@@ -171,7 +184,6 @@ public class Array2DPractice
      XXXXX
      qqqXz
 
-     explodeAllchar(board,'z') will change board to:
   */
   public static void explodeAllChar(char[][] board, char c)
   {
