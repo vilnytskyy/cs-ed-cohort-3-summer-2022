@@ -40,6 +40,26 @@ Fill in the missing body of each method and use the main() method to test. You a
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 
+Teams (2D Array Work):
+```
+1	Aasine C	Amanda L	Sam L	Alana R
+2	Dave C	adam d	stacy G	Alise B
+3	Jing X	Christopher D	Taylor G	Alicia W
+4	Marieke T	Charles D	Greg S	Benjamin E
+5	Maxwell Y	Ed H	Tanya W	Latoya B
+6	Seth A	Erwin L	Wayne T	Christine M
+7	Nicole C	Kiana H	Yanique S	Jenna L
+8	Patti E	Jessica N	Saranii M	Jerusha T
+9	Sarah M	Jihae P	Adam P	Kirk M
+10	Suzie S	Kate M	David M	Shana Elizabeth H
+11	usman a	Michael R	Harrison F	Mike P
+12	Yenmin Y	Joshua H	Joel B	Vanessa Z
+13	Elizabeth R	William L	Marisa S	Richard P
+14	Yeidy L	Parmanand M	Rachel K	
+15	Ashley U	Steve S	Théa W	
+```
+
+
 * * *
 
 #### Work: Putting 2D Arrays to Use -- CGOL
@@ -86,27 +106,23 @@ _YOUR CODING MISSION:_
   - Save in your_work_repo: `programming/3/Cgol.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
+Teams (CGOL):
+```
+1	Marieke T	Erwin L	Sam L	Latoya B
+2	Harrison F	Kiana H	stacy G	Alise B
+3	David M	Jessica N	Taylor G
+4	Marisa S	Jihae P	Seth A	Shana Elizabeth H
+5	Rachel K	Kate M	usman a	Yeidy L
+6	Adam P	Michael R	Aasine C	Jenna L
+7	Greg S	Joshua H	Dave C	Christine M
+8	Vanessa Z	William L	Patti E	Alana R
+9	Ashley U	Parmanand M	Sarah M	Kirk M
+10	Elizabeth R	Steve S	Suzie S	Richard P
+11	Benjamin E	Amanda L	Nicole C	Saranii M
+12	Tanya W	adam d	Jing X	Yanique S
+13	Mike P	Christopher D	Maxwell Y	Wayne T
+14	Alicia W	Charles D	Yenmin Y	Jerusha T
+15	Théa W	Ed H	Joel B
+```
+
 * * *
-
-
-
-
-
-Teams:
-```
-1	Aasine C	Amanda L	Sam L	Alana R
-2	Dave C	adam d	stacy G	Alise B
-3	Jing X	Christopher D	Taylor G	Alicia W
-4	Marieke T	Charles D	Greg S	Benjamin E
-5	Maxwell Y	Ed H	Tanya W	Latoya B
-6	Seth A	Erwin L	Wayne T	Christine M
-7	Nicole C	Kiana H	Yanique S	Jenna L
-8	Patti E	Jessica N	Saranii M	Jerusha T
-9	Sarah M	Jihae P	Adam P	Kirk M
-10	Suzie S	Kate M	David M	Shana Elizabeth H
-11	usman a	Michael R	Harrison F	Mike P
-12	Yenmin Y	Joshua H	Joel B	Vanessa Z
-13	Elizabeth R	William L	Marisa S	Richard P
-14	Yeidy L	Parmanand M	Rachel K	
-15	Ashley U	Steve S	Théa W	
-```
