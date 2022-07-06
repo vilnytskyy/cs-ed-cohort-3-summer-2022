@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Conway's Game of Life Team AreWeSentientYet?
+ * Conway's Game of Life by Team AreWeSentientYet?
  * First Last
  * collaborators: First Last, First Last
  */
