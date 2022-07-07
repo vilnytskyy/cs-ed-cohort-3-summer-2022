@@ -75,10 +75,21 @@ If time, intro Conway's Game of Life
 
 Lab work time in small groups. (Conway's Game of Life)
 - punctuated by mid-development demos and discussion
-
-#### Lecture: Recursion
-  
+ 
 Lab work time in small groups.
 
 * * *
 
+### Day 5 | Day 0b0101 | Day 0x05 : 7/7
+
+#### Lecture: Recursion
+
+Lab work time in small groups.
+
+#### Work: Recursion
+
+#### Lecture: Classes and Objects
+
+Lab work time in small groups.
+
+* * *
