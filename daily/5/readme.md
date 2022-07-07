@@ -100,6 +100,21 @@ Notice that you only specifiy the Driver on the java line.
 
 Teams (recursion+classes):
 ```
+1	Taylor G	Seth A	Harrison F	Yanique S
+2	stacy G	usman a	David M	Yeidy L
+3	Sam L	Suzie S	Marisa S	Wayne T
+4	Steve S	Sarah M	Rachel K	Tanya W
+5	Parmanand M	Patti E	Adam P	
+6	William L	Nicole C	Latoya B
+7	Joshua H	Greg S	Dave C	Christine M
+8	Michael R	Maxwell Y	Benjamin E	Vanessa Z
+9	Kate M	Marieke T	Alicia W	Mike P
+10	Jihae P	Jing X	Alise B	Shana Elizabeth H
+11	Jessica N	Joel B	Saranii M	Kirk M
+12	Kiana H	Aasine C	Alana R	Jerusha T
+13	Erwin L	Yenmin Y	Ashley U	Jenna L
+14	Ed H	Christopher D	Elizabeth R	Théa W
+15	Charles D	adam d	Amanda L	Richard P
 ```
 
 * * *
