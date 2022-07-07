@@ -15,6 +15,8 @@ In ascending order of richness/difficulty, these are the stub/skeleton files in 
 
 You are encouraged to peruse all four, then code as many as you can, starting with the simplest. (Which may be fib, if you just want to redo what was shown in lecture.)
 
+Some stubs compile as-is, and others need placeholder code (dummy return statements, etc) inserted to get past the compiler. Once you get to the coding phase of your work, __ACHIEVE COMPILABILITY ASAP__.
+
 _YOUR CODING MISSION:_
 
 Fill in the missing code where necessary and use the main() method to test. You are welcome to add additional code to the main() method, but do not delete any existing code.
