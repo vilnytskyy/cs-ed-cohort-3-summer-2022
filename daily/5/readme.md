@@ -32,7 +32,7 @@ Design Considerations:
 * The second approach is easier for comparing times.
 * You can use either representation for your project.
 
-##### Starter files and file locations
+#### Starter files and file locations
 
 This folder has two starter files:
 - Time.java (where you'll write your class)
@@ -41,11 +41,11 @@ This folder has two starter files:
 Copy these files into your rep under the `/programming/5` folder.
 
 
-##### Specifics
+#### Specifics
 
 You will complete your class in Time.java and you will write the code to test it in Driver.java. Specific requirements and levels are in the Time.java file.
 	
-##### Compiling and Running 
+#### Compiling and Running 
 
 You can compile each file using
 - `javac Time.java`
