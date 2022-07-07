@@ -13,7 +13,7 @@ In ascending order of richness/difficulty, these are the stub/skeleton files in 
 * Reverser.java
 * Binsearch.java
 
-You are encouraged to peruse all four, then code as many as you can.
+You are encouraged to peruse all four, then code as many as you can, starting with the simplest. (Which may be fib, if you just want to redo what was shown in lecture.)
 
 _YOUR CODING MISSION:_
 
@@ -35,12 +35,6 @@ Fill in the missing code where necessary and use the main() method to test. You 
 - DELIVERABLE:
   - Save in your work repo: `programming/5/____.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
-
-
-
-
-
-
 
 
 Visuals for Better Understanding: 
