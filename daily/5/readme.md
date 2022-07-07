@@ -7,37 +7,41 @@ Time can be represented in a class in one of two ways:
 or
 2. Using a single variable  for the time in seconds.
 
-The first methods is easier for things like printing or setting a
-specific number of minutes.
+Design Considerations:
+* The first approach is easier for things like printing or setting a specific number of minutes.
+* The second approach is easier for comparing times.
+* You can use either representation for your project.
 
-The second method is easier for comparing times.
-
-You can use either representation for your project.
-
-## Starter files and file locations.
+## Starter files and file locations
 
 This folder has two starter files:
 - Time.java (where you'll write your class)
-- Driver.java - the Driver file from which you'll test it
+- Driver.java - the Driver file you will use to test it
 
-Copy these files into your rep under the /programming/5 folder.
+Copy these files into your rep under the `/programming/5` folder.
 
 
 ## Specifics
 
-	You will complete your class in Time.java and you will write the code to test it in Driver.java. Specific requirements and levels are in the Time.java file.
+You will complete your class in Time.java and you will write the code to test it in Driver.java. Specific requirements and levels are in the Time.java file.
 	
-## Compiling and running 
+## Compiling and Running 
 
-You can compile each file using:
-- javac Time.java
-- javac Driver.java
+You can compile each file using
+- `javac Time.java`
+- `javac Driver.java`
 
-or you can compile them both at once using:
-- javac Driver.java Time.java
+or you can compile them both at once using
+- `javac Driver.java Time.java`
 
-To run your program, first compile both .java files and then run using:
-- java Driver
+To run your program, first compile __both__ .java files, then run using
+- `java Driver`
 
 Notice that you only specifiy the Driver on the java line.
 
+
+Teams (recursion+classes):
+```
+```
+
+* * *
