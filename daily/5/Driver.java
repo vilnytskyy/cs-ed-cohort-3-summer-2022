@@ -3,7 +3,7 @@ import java.util.*;
 
 
 /**
- * Time class by Team LucidThinkeren
+ * Driver class for Time class  by Team LucidThinkeren
  * First Last
  * collaborators: First Last, First Last
  */
