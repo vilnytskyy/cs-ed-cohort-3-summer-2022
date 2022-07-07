@@ -53,10 +53,10 @@ Grading:
 
 To earn a particular grade, your assignment must compile and run correctly and follow the specification. 
 
-To earn a given overall grade, you need that grade on both the Array
-portion and Class portion of the class. So for an A you to complete
+To earn a given overall grade, you need that grade on both the 2D Array
+portion and Class portion of the class. So for an A you should complete
 the Game of Life and the intermediate SuperArray assignment (this
-might be simplified if we run short of time).
+might be simplified if we run short of time) since that would show competency in all the required areas.
 
 
 # Note: 
