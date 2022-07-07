@@ -21,7 +21,7 @@ import java.util.*;
 
    Basic level (complete all):
    - public Time(int hrs, int mins, int secs) - constructor
-   - public void toString()
+   - public String toString()
    - public void set(int hrs, int mins, int secs)
 
    Intermediate level (complete Basic methods plus this method):
