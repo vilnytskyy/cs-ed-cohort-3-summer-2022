@@ -32,9 +32,9 @@ B- or B+ on loops for completing Nim.  However, if you complete another assignme
 | Array2DPractice (Intermediate) | Same as Array2D Basic but Arrays 2D (B+ or A-)                |
 | Array2DPractice (Advanced)     | Same as Array2D Intermediate but A- in all cases for Arrays2D |
 |--------------------------------|---------------------------------------------------------------|
-| Recursion assignment           | (A) for completign at least Fib.                              |
-|--------------------------------|---------------------------------------------------------------|
 | Game of Life                   | (A) for all above concepts                                    |
+|--------------------------------|---------------------------------------------------------------|
+| Recursion assignment           | (A) for completign at least Fib.                              |
 |--------------------------------|---------------------------------------------------------------|
 | Time class (Basic)             | instance variables (B), Constructors (A), Methods (B)         |
 | Time class (Intermediate)      | instance variables (B), Constructors (A), Methods (A-)        |
