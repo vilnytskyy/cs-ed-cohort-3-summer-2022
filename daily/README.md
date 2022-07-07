@@ -86,8 +86,6 @@ Lab work time in small groups.
 
 Lab work time in small groups.
 
-#### Work: Recursion
-
 #### Lecture: Classes and Objects
 
 Lab work time in small groups.
