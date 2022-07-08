@@ -15,7 +15,7 @@
 
 Copy the sa directory into your own /programming/6/ directory and make the files your own. (Fill in headings, etc)
 
-Compiling and Running
+##### Compiling and Running
 
 You can compile each file using
 
