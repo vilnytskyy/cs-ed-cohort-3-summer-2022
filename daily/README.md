@@ -91,3 +91,13 @@ Lab work time in small groups.
 Lab work time in small groups.
 
 * * *
+
+### Day 6 | Day 0b0110 | Day 0x06 : 7/8
+
+Lab work time in small groups.
+
+#### Lecture: Encapsulation/SuperArray
+
+Lab work time in small groups.
+
+* * *
