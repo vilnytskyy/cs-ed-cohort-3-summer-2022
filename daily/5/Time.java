@@ -86,9 +86,7 @@ public class Time {
        modifies this instance to represent the time hrs:mins:secs
     */
     public void set(int hrs, int mins, int secs){
-	// add the code to add the time represented by other
-	// to this instance.
-
+	// update this Time object according to the inputs
     }
 
     
