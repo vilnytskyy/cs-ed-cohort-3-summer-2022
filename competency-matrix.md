@@ -40,9 +40,9 @@ B- or B+ on loops for completing Nim.  However, if you complete another assignme
 | Time class (Intermediate)      | instance variables (B), Constructors (A), Methods (A-)        |
 | Time class (Advanced)          | instance variables (B), Constructors (A), Methods (A-)        |
 |--------------------------------|---------------------------------------------------------------|
-| Time class (Basic)             | instance variables (B), Constructors (A), Methods (B)         |
-| Time class (Intermediate)      | instance variables (B), Constructors (A), Methods (A-)        |
-| Time class (Advanced)          | instance variables (B), Constructors (A), Methods (A-)        |
+| Ratio class (Basic)             | instance variables (B), Constructors (A), Methods (B)         |
+| Ratio class (Intermediate)      | instance variables (B), Constructors (A), Methods (A-)        |
+| Ratio class (Advanced)          | instance variables (B), Constructors (A), Methods (A-)        |
 |--------------------------------|---------------------------------------------------------------|
 | SuperArray (Basic)             | Instance Variables (A), Methods (A-)                          |
 | SuperArray (Intermediate)      | Everything except 2D Arrays (A)                                                               |
@@ -58,6 +58,7 @@ portion and Class portion of the class. So for an A you should complete
 the Game of Life and the intermediate SuperArray assignment (this
 might be simplified if we run short of time) since that would show competency in all the required areas.
 
+As another example, completing the Basic 2Darray and one of the Basic class assignments (Time or ratio) would translate to a B level grade since the basic 2D array assignment is worth a B or B- and the basic class assignment is worth a B (or A) on all the clas concepts. 
 
 # Note: 
 
