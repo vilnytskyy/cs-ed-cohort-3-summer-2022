@@ -1,4 +1,4 @@
-#### Competency Grading Matrix - Draft
+#### Competency Grading Matrix for CSCI70900 (Programming)
 
 # Concepts
 - Assignments
