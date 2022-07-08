@@ -1,7 +1,7 @@
 
 #### Work: Implement SuperArray class
 
-All SuperArray files are in the *sa* subdirectory (folder)
+All SuperArray files are in the  **sa** subdirectory (folder)
 
 #### Starter Files:
 
@@ -15,7 +15,7 @@ All SuperArray files are in the *sa* subdirectory (folder)
 
 #### Instructions 
 
-Copy the sa directory into your own /programming/6/ directory and make the files your own. (Fill in headings, etc)
+Copy the **sa** directory into your own **/programming/6/sa** directory and make the files your own. (Fill in headings, etc)
 
 ##### Compiling and Running
 
