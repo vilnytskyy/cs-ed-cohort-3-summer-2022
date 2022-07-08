@@ -1,3 +1,35 @@
+#### Work: Gaining Familiarity with Classes via Rational (Number) Class
+
+For this project you'll be completing and testing a class that represents a rational number, and facilites common mathematical operations.
+
+#### Starter files and file locations
+
+This folder has a subdirectory, `rat`, with
+- Rational.java (skeleton you will fill in)
+- Driver.java - the Driver file you will use to test it
+
+Copy these files into your own repo under the `/programming/6/rat` folder.
+
+
+#### Specifics
+
+You will complete your class in Rational.java and you will write the code to test it in Driver.java (some test code is pre-written for you). Specific requirements and levels are in the Rational.java file.
+	
+#### Compiling and Running 
+
+You can compile each file using
+- `javac Rational.java`
+- `javac Driver.java`
+
+or you can compile them both at once using
+- `javac Driver.java Rational.java`
+
+To run your program, first compile __both__ .java files, then run using
+- `java Driver`
+
+Notice that you only specifiy the Driver on the java line.
+
+* * *
 
 #### Work: Implement SuperArray class
 
