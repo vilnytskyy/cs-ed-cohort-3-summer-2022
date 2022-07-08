@@ -8,8 +8,7 @@ This folder has a subdirectory, `rat`, with
 - Rational.java (skeleton you will fill in)
 - Driver.java - the Driver file you will use to test it
 
-Copy these files into your own repo under the `/programming/6/rat` folder.
-
+Copy the **sa** directory into your own **/programming/6/sa** directory and make the files your own. (Fill in headings, etc)
 
 #### Specifics
 
