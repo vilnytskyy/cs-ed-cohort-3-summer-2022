@@ -8,14 +8,12 @@
   SuperArray class from here.
 
 #### Other Files:
-- subgoals0.java - subgoals for the SuperArray class. Look at this
-  file for additional guidance for writing the methods in
-  SuperArray.java.
-- encapsulation00.jpg - a visual diagram of a SuperArray 
+- subgoals0.java - subgoals for the SuperArray class. You may find it helpful to keep this file open, separately, as a to-do list (optional).
+- encapsulation00.jpg - a visual diagram of a SuperArray. You are strongly encouraged to make your own like it, and refer to them as you implement your methods. _Breath life into your diagrams_ by using them as focal point of team discussions, marking them up, re-drawing them as necessary. Feel free to share in `#flex-your-kts`.
 
 #### Instructions 
 
-Copy the files into /programming/6 and 
+Copy the sa directory into your own /programming/6/ directory and make the files your own. (Fill in headings, etc)
 
 Compiling and Running
 
