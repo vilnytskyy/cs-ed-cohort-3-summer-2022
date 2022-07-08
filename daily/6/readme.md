@@ -28,6 +28,25 @@ To run your program, first compile __both__ .java files, then run using
 
 Notice that you only specifiy the Driver on the java line.
 
+```
+TEAMS 	for RATIONAL
+1	Steve S	Yanique S	Yenmin Y	Latoya B
+2	Parmanand M	Yeidy L	usman a	Benjamin E
+3	William L	Wayne T	Suzie S	Alicia W
+4	Michael R	Tanya W	Sarah M	Alise B
+5	Joshua H	Théa W	Patti E	Alana R
+6	Kate M	Saranii M	Nicole C	Ashley U
+7	Jihae P	Richard P	Seth A	Rachel K
+8	Jessica N	Vanessa Z	Maxwell Y	Adam P
+9	Kiana H	Mike P	Marieke T	Greg S
+10	Erwin L	Shana Elizabeth H	Jing X	Joel B
+11	Ed H	Kirk M	Dave C	Taylor G
+12	Charles D	Jerusha T	Aasine C	stacy G
+13	Christopher D	Jenna L	Harrison F	Sam L
+14	adam d	Elizabeth R	David M	#N/A
+15	Amanda L	Christine M	Marisa S	#N/A
+```
+
 * * *
 
 #### Work: Implement SuperArray class
