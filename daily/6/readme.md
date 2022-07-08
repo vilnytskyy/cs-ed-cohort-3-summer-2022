@@ -1,6 +1,8 @@
 
 #### Work: Implement SuperArray class
 
+All SuperArray files are in the *sa* subdirectory (folder)
+
 #### Starter Files:
 
 - SuperArray.java  - complete as much of this class as you can.
