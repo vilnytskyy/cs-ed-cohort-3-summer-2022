@@ -26,7 +26,7 @@ import java.util.*;
 
    Intermediate level (complete Basic methods plus this method):
    - public void add(Time other)
-   - public boolean isEquals(Time other)
+   - public boolean equals(Time other)
 
    
    Advanced level (complete Basic + Intermediate + these two methods):
