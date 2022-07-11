@@ -84,6 +84,7 @@ public class SuperArray
   {
     //return whether this SuperArray instance is empty
     /* YOUR SIMPLE+SMART CODE HERE */
+    return true;
   }
 
 
@@ -91,6 +92,7 @@ public class SuperArray
   {
     //return item at index
     /* YOUR SIMPLE+SMART CODE HERE */
+    return 0;
   }
 
 
@@ -98,6 +100,7 @@ public class SuperArray
   {
     //return stringified version of this Object
     /* YOUR SIMPLE+SMART CODE HERE */
+    return "";
   }//end toString()
 
 
