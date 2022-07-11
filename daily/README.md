@@ -101,3 +101,13 @@ Lab work time in small groups.
 Lab work time in small groups.
 
 * * *
+
+### Day 7 | Day 0b0111 | Day 0x07 : 7/11
+
+Lab work time in small groups.
+
+Demos
+
+Lab work time in small groups.
+
+Solidification of concepts, repo organization...
