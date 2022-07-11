@@ -5,7 +5,7 @@ public class SuperArrayDriver
 {
   public static void main( String[] args )
   {
-    /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
     System.out.println("Testing default constructor.");
     SuperArray sa = new SuperArray();
 
@@ -34,6 +34,7 @@ public class SuperArrayDriver
     sa.add(17, 100);
     System.out.println(sa);
 
+    
     System.out.println("\nTesting remove at 0, 5, and 15 (end)");
     sa.remove(0);
     System.out.println(sa);
@@ -43,6 +44,7 @@ public class SuperArrayDriver
 
     sa.remove(15);
     System.out.println(sa);
+    /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
   }//main
