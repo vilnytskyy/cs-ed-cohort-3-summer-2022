@@ -2,6 +2,12 @@
 
 ## main working repo Summer Classes
 
+## CSCI70300 - Data Structures
+- Main web page / repo for data structures: https://github.com/hunter-teacher-cert/csci70300-summer2022
+
+## SEDC71900 - Methods 1
+- Main web page / repo for Methods I: TBD
+
 ## CSCI70900 - Programming in a high level language
 
 ## Zoom and Class Discussion Links
