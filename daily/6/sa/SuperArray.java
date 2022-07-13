@@ -125,30 +125,18 @@ public class SuperArray
     return s;
   }//end debug()
 
-
   public void remove(int index)
   {
     // shift items down to remove the item at index
-    int[] temp = new int[data.length];
 
-    for(int i = 0; i < data.length - 1; i++)
+    for(int i = index; i < numberElements - 1; i++)
     {
-      if(i < index)
-      {
-        temp[i] = data[i];
-      }
-      else
-      {
-        temp[i] = data[i+1];
-      }
+      data[i] = data[i+1];
     }
-
-    data = temp;
 
     // subtract fom numElements;
     numberElements--;
   }
-
 
   public void add(int index, int value)
   {
@@ -159,21 +147,10 @@ public class SuperArray
     }
 
     // shift elements toward the end of the array
-    int[] temp = new int[data.length];
-
-    for(int i = 0; i < data.length; i++)
+    for(int i = numberElements - 1; i >= index; i--)
     {
-      if(i <= index)
-      {
-        temp[i] = data[i];
-      }
-      else
-      {
-        temp[i] = data[i-1];
-      }
+      data[i + 1] = data[i];
     }
-
-    data = temp;
     
     // add item
     data[index] = value;
@@ -181,7 +158,6 @@ public class SuperArray
     // increment numberElements
     numberElements++;
   }
-
 
   private void grow()
   {
